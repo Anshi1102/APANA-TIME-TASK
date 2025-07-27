@@ -24,4 +24,4 @@ Step 4: Create an Interactive Dashboard
 - The dashboard should allow users to:  
     - Select columns  
     - Visualize data distributions  
-    - Interact with the statistical result  
+    - Interact with the statistical results  
